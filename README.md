@@ -1,5 +1,7 @@
 # Clustering-Segmentation-Case-Study
 
+Online_Retail 
+
 Customer segmentation is highly significant in determining what action is required to grow revenue, establish strong relationships with customers, and many other things. Customer segmentation would provide us with a reference point for taking action for each consumer in their segmentation, such as product differentiation, creating a focus campaign for each customer, and other strategies that we have. Companies would focus on a priority scale as a result of customer segmentation. This segmentation allows us to reach out to "star" customers who make large purchases as well as "rare" customers who make little purchases. Companies may concentrate their efforts, resources, and attention on that specific segment.
 
 I will use machine learning approaches to construct correct consumer segments because we have a customer segmentation problem.
